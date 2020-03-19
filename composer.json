@@ -10,7 +10,5 @@
         }
     ],
     "minimum-stability": "beta",
-    "require": {
-        "laravel/laravel": "^6.1"
-    }
+    "require": {}
 }
