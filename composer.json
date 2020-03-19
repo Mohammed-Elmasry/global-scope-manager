@@ -1,0 +1,14 @@
+{
+    "name": "mohammed/masry-global-scope-manager",
+    "description": "\\Create and manage global scopes automatically.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammed-Elmasry",
+            "email": "mohammed.hussein.mahmoud@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
