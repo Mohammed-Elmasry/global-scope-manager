@@ -1,5 +1,5 @@
 {
-    "name": "mohammed/masry-global-scope-manager",
+    "name": "masry/global-scope-manager",
     "description": "\\Create and manage global scopes automatically.",
     "type": "library",
     "license": "MIT",
